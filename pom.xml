@@ -10,14 +10,6 @@
 	<!-- <url>http://maven.apache.org</url> -->
 	<description>dw WeChat Open Platform SDK</description>
 
-	<developers>
-		<developer>
-			<id>kobe</id>
-			<name>kobe bryant</name>
-			<email>liuyong@19210723.com</email>
-		</developer>
-	</developers>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<http.version>4.5.1</http.version>
